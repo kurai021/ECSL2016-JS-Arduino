@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Controlando Sensores con Javascript y Arduino",
+    "packageVersion": "0.0.1",
+    "revealTheme": "simple",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
